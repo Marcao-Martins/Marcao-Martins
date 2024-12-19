@@ -1,4 +1,4 @@
-<h2 align="left">Olá👋! Eu sou o Marcos!</h2>
+<h2 align="left"># 👋 Hi there! <br><br>I'm Marcos, a Computer Science student from Brazil 🇧🇷<br><br>## 🚀 About Me<br>- 🔭 I'm currently working on:<br>  - Machine Learning project for Spotify music recommendation<br>  - AI-Powered aim-assist system<br>- 🌱 I'm currently learning and researching Deep Learning<br>- 🤖 Passionate about AI, Machine Learning, and Data Science</h2>
 
 ###
 
@@ -51,12 +51,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://pin.it/3YFCkXk9z"  />
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/marcao_mrt/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -71,8 +65,9 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Marcao-Martins/Marcao-Martins/output/snake.svg" alt="Snake animation" />
+<p align="left">## 💻 Main Projects<br><br>
+### 🎵 [Spotify Recommendation System](link-to-repo)<br><img align="right" src="project-preview-image-url" width="200"><br><br>A machine learning-based music recommendation system<br><br>---<br><br>
+### 🎮 [AI Aim Assist](link-to-repo)<br><img align="right" src="project-preview-image-url" width="200"><br><br>An intelligent aim assistance system using:<br>- Computer vision for real-time object detection<br>- Deep learning for player movement prediction<br>- Custom training dataset creation<br>- Tech stack: Python, PyTorch, CUDA, Yolo<br>---<br><br>
+### 📊 [Other Cool Project](link-to-repo)<br><img align="right" src="project-preview-image-url" width="200"><br><br>Brief description of another significant project<br>- Key feature 1<br>- Key feature 2<br>- Tech stack used</p>
 
 ###
