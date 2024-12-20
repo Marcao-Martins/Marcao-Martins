@@ -65,29 +65,24 @@
 
 ## 💻 Main Projects
 ### 📊 [Internship Data Analysis Projects](https://github.com/Marcao-Martins/Internship-Projects.git)
-<img align="right" src="project-preview-image-url" width="200">
 Data analysis projects using:
 - Business rule application for data analysis
-- Visualization of results
-- Python for data processing
+- Python and SQL for data processing
 - Power BI for visualization
 
 ---
 
 
 ### 🎵 [Spotify Recommendation System](https://github.com/Marcao-Martins/Spotify-Recommendation.git)
-<img align="right" src="project-preview-image-url" width="200">
-A music recommendation system using:
+A music recommendation system:
 - Machine learning for analyzing user preferences
-- Personalized playlist generation
-- Advanced algorithms for enhanced user experience
+- Personalized artists recommendation
 - Tech stack: Python, Scikit-learn, Pandas
 
 ---
 
 ### 🎮 [AI Aim Assist](https://github.com/Marcao-Martins/AI-Aimbot.git)
-<img align="right" src="project-preview-image-url" width="200">
-An intelligent aim assistance system using:
+An intelligent aim assistance system:
 - Computer vision for real-time object detection
 - Deep learning for player movement prediction
 - Custom training dataset creation
