@@ -63,11 +63,33 @@
   </a>
 </div>
 
-###
+## 💻 Main Projects
+### 📊 [Internship Data Analysis Projects](https://github.com/Marcao-Martins/Internship-Projects.git)
+<img align="right" src="project-preview-image-url" width="200">
+Data analysis projects using:
+- Business rule application for data analysis
+- Visualization of results
+- Python for data processing
+- Power BI for visualization
 
-<p align="left">## 💻 Main Projects<br><br>
-### 🎵 [Spotify Recommendation System](link-to-repo)<br><img align="right" src="project-preview-image-url" width="200"><br><br>A machine learning-based music recommendation system<br><br>---<br><br>
-### 🎮 [AI Aim Assist](link-to-repo)<br><img align="right" src="project-preview-image-url" width="200"><br><br>An intelligent aim assistance system using:<br>- Computer vision for real-time object detection<br>- Deep learning for player movement prediction<br>- Custom training dataset creation<br>- Tech stack: Python, PyTorch, CUDA, Yolo<br>---<br><br>
-### 📊 [Other Cool Project](link-to-repo)<br><img align="right" src="project-preview-image-url" width="200"><br><br>Brief description of another significant project<br>- Key feature 1<br>- Key feature 2<br>- Tech stack used</p>
+---
 
-###
+
+### 🎵 [Spotify Recommendation System](https://github.com/Marcao-Martins/Spotify-Recommendation.git)
+<img align="right" src="project-preview-image-url" width="200">
+A music recommendation system using:
+- Machine learning for analyzing user preferences
+- Personalized playlist generation
+- Advanced algorithms for enhanced user experience
+- Tech stack: Python, Scikit-learn, Pandas
+
+---
+
+### 🎮 [AI Aim Assist](https://github.com/Marcao-Martins/AI-Aimbot.git)
+<img align="right" src="project-preview-image-url" width="200">
+An intelligent aim assistance system using:
+- Computer vision for real-time object detection
+- Deep learning for player movement prediction
+- Custom training dataset creation
+- Tech stack: Python, PyTorch, CUDA, Yolo
+
