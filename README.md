@@ -57,11 +57,10 @@
 </div>
 
 ## 💻 Main Projects
-### 📊 [Internship Data Analysis Projects](https://github.com/Marcao-Martins/Internship-Projects.git)
+### 📊 [Undergraduate Research](https://github.com/Marcao-Martins/Research-Projects.git)
 Data analysis projects using:
-- Business rule application for data analysis
-- Python and SQL for data processing
-- Power BI for visualization
+- Modiification and usage of NPL model
+- Python for data processing and analysis
 
 ---
 
