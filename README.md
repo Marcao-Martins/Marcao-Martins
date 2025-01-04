@@ -1,4 +1,4 @@
-<h2 align="left"># 👋 Hi there! <br><br>I'm Marcos, a Computer Science student from Brazil 🇧🇷<br><br>## 🚀 About Me<br>- 🔭 I'm currently working on:<br>  - Machine Learning project for Spotify Artist recommendation<br>  - AI-Powered aim-assist system<br>- 🌱 I'm currently learning and researching Deep Learning and NLP<br>- 🤖 Passionate about AI, Machine Learning, and Data Science</h2>
+<h2 align="left"># 👋 Hi there! <br><br>I'm Marcos, a Computer Science student from Brazil 🇧🇷<br><br>## 🚀 About Me<br>- 🔭 I'm currently working on:<br>  - Graph-Based project for Spotify Artist recommendation<br>  - AI-Powered aim-assist system<br>- 🌱 I'm currently learning and researching Deep Learning and NLP<br>- 🤖 Passionate about AI, Machine Learning, and Data Science</h2>
 
 ###
 
