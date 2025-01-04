@@ -59,17 +59,18 @@
 ## 💻 Main Projects
 ### 📊 [Undergraduate Research](https://github.com/Marcao-Martins/Research-Projects.git)
 Data analysis projects using:
-- Modiification and usage of NPL model
-- Python for data processing and analysis
+- Modification and usage of NPL model
+- Data processing, analysis and automation
 
 ---
 
 
 ### 🎵 [Spotify Recommendation System](https://github.com/Marcao-Martins/Spotify-Recommendation.git)
-A music recommendation system:
-- Machine learning for analyzing user preferences
-- Personalized artists recommendation
-- Tech stack: Python, Scikit-learn, Pandas
+A powerful artist discovery engine that transforms your listening history into personalized artist recommendations:
+- Community detection using Louvain algorithm to unveil artist relationships
+- Advanced scoring system combining genres, popularity, and artist correlations
+- 50 tailored recommendations from your top 5 musical communities
+- Full-Stack
 
 ---
 
@@ -78,5 +79,4 @@ An intelligent aim assistance system:
 - Computer vision for real-time object detection
 - Deep learning for player movement prediction
 - Custom training dataset creation
-- Tech stack: Python, PyTorch, CUDA, Yolo
 
