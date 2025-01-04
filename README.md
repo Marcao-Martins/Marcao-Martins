@@ -58,7 +58,7 @@
 
 ## 💻 Main Projects
 ### 📊 [Undergraduate Research](https://github.com/Marcao-Martins/Research-Projects.git)
-Research project developed for the Center for Artificial Intelligence of the University of São Paulo [C4AI](https://c4ai.inova.usp.br/) focusing on:
+Research project developed for the [C4AI](https://c4ai.inova.usp.br/) (Center for Artificial Intelligence) at the University of São Paulo (USP) focusing on:
 - Enhancement and implementation of Natural Language Processing models
 - Data processing and extraction
 - Statistical analysis with automated scripts
