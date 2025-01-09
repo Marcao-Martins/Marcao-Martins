@@ -1,4 +1,4 @@
-<h2 align="left"># 👋 Hi there! <br><br>I'm Marcos, a Computer Science student from Brazil 🇧🇷<br><br>## 🚀 About Me<br>- 🔭 I'm currently working on:<br>  - Graph-Based project for Spotify Artist recommendation<br>  - AI-Powered aim-assist system<br>- 🌱 I'm currently learning and researching Deep Learning and NLP<br>- 🤖 Passionate about AI, Machine Learning, and Data Science</h2>
+<h2 align="left"># 👋 Hi there! <br><br>I'm Marcos, a Computer Science student from Brazil 🇧🇷<br><br>## 🚀 About Me<br>- 🔭 I'm currently working on:<br>  - Deep Learning Prediction Model for Historical Crises <br>  - AI-Powered aim-assist system<br>- 🌱 I'm currently learning and researching Deep Learning and NLP<br>- 🤖 Passionate about AI, Machine Learning, and Data Science</h2>
 
 ###
 
@@ -63,8 +63,16 @@ Research project developed for the [C4AI](https://c4ai.inova.usp.br/) (Center fo
 - Enhancement and implementation of Natural Language Processing models
 - Data processing and extraction
 - Statistical analysis with automated scripts
+  
 ---
 
+### 📊 [Loan Approval Classification](https://github.com/Marcao-Martins/Credit-Risk.git)
+Case Study: Utilizing a Credit Risk Dataset Enhanced with Additional Financial Risk Variables for Loan Approval, with a Focus on:
+- Data Analysis
+- Feature Engineering
+- Optimizing Hyperparameters and Validating Different Machine Learning Algorithms to Minimize False Positive Rates
+  
+---
 
 ### 🎵 [Spotify Recommendation System](https://github.com/Marcao-Martins/Spotify-Recommendation.git)
 A powerful artist discovery engine that transforms your listening history into personalized artist recommendations:
